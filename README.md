@@ -1,4 +1,4 @@
-# Trading via Reinforcement Learning
+# Predicting the direction of stock market prices using tree-based model
 
 Machine learning techniques have recently become the norm for detecting patterns in financial markets.
 The problem addressed in this work involves predicting the direction of stock price changes, specifically whether they will increase or decrease compared to the price n days prior.
