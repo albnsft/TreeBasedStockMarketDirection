@@ -2,7 +2,7 @@
 
 This project is an implementation of https://arxiv.org/abs/1605.00003
 
-Our results can be find in TreeBasedInvesting.pdf
+Our results are available in TreeBasedInvesting.pdf
 
 ### Authors
 
